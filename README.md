@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAyZGJ0cmEwYmFkbmVocHBuNGd4ODRlYjlyc3E1Nm56dWcwbno1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Banner" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzIzOTBnZW93OHNyb3c5OWpwd204NDBxcnd6cTBjdmhuNGc4cmxpMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.webp" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 👋 Hi, I’m MrQuangThien
