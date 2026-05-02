@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:141e30,50:243b55,100:0f2027&text=GS%20QUANG%20THIEN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Web%20Developer%20|%20Backend%20Engineer&descSize=16&descAlignY=62" width="1000%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:141e30,50:243b55,100:0f2027&text=GS%20QUANG%20THIEN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20|%20Backend%20Engineer&descSize=16&descAlignY=62"/>
 </p>
 
 <p align="center">
@@ -10,108 +10,86 @@
 
 ---
 
-<!-- ================= INTRO ================= -->
-<h3 align="center">🚀 Building Scalable Web Systems | Passionate Developer</h3>
+## 🚀 About Me & Goals
 
----
+<table>
+<tr>
+<td width="50%">
 
-<!-- ================= BANNER ================= -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzIzOTBnZW93OHNyb3c5OWpwd204NDBxcnd6cTBjdmhuNGc4cmxpMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.webp" width="50%" style="border-radius:15px"/>
-</p>
+### 👨‍💻 About Me
+- Full-stack Web Developer  
+- Backend-focused  
+- System Design & Performance Optimization  
+- Interested in AI / ML  
 
----
+</td>
 
-## 👨‍💻 About Me
+<td width="50%">
 
-Xin chào 👋, mình là **MrQuangThien** – một **Full-stack Web Developer** với định hướng chuyên sâu về **Backend Development, System Design và Performance Optimization**.  
+### 🎯 Goals
+- Build scalable systems  
+- Improve System Design  
+- Optimize backend performance  
+- Join real-world projects  
 
-- 🔥 Xây dựng hệ thống web bằng **ASP.NET Core, Django, SQL Server**
-- ⚡ Tối ưu hiệu năng & kiến trúc hệ thống
-- 🧠 Nghiên cứu **Microservices & Scalable Architecture**
-- 🤖 Quan tâm đến **AI / Machine Learning**
-- 🌍 Đóng góp **Open Source**
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Phát triển hệ thống web quy mô lớn  
-- 📚 Nâng cao kỹ năng **System Design**  
-- ⚡ Tối ưu hiệu năng backend  
-- 🌐 Tham gia nhiều dự án thực tế hơn  
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs&perline=6" />
-</p>
+### 💻 Languages | 🎨 Frontend | ⚙️ Backend | ☁️ Tools
 
-### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,bootstrap&perline=6" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,spring,mysql,postgres,mongodb&perline=6" />
-</p>
-
-### ☁️ DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,vscode,figma,postman&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,react,vue,html,css,tailwind,bootstrap,django,flask,spring,mysql,postgres,mongodb,docker,git,vscode,figma,postman&perline=12" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MrQuangThien&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrQuangThien&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrQuangThien&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://trophy.ryglcloud.net/?username=MrQuangThien&theme=onedark&no-frame=true&no-bg=true"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=MrQuangThien&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrQuangThien&theme=tokyonight&hide_border=true"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrQuangThien&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🏆 Highlights
 
-- 💡 Xây dựng nhiều dự án Web Full-stack  
-- 📦 Làm việc với RESTful API & Database  
-- 🔐 Hiểu về Authentication / Authorization  
-- ⚙️ Triển khai ứng dụng với Docker  
-
----
-
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="mailto:thien123123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://wa.me/123456789"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
+
+🔹 Full-stack Projects  
+🔹 RESTful API & Database  
+🔹 Authentication / Authorization  
+🔹 Docker Deployment  
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🌐 Connect
 
 <p align="center">
-  <img width="85%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:thien123123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://wa.me/123456789"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
 ---
 
-## ☕ Support Me
+## 🐍 Contribution
+
+<p align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## ☕ Support
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/chamidudili">
@@ -121,7 +99,6 @@ Xin chào 👋, mình là **MrQuangThien** – một **Full-stack Web Developer*
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:141e30&height=100&section=footer"/>
 </p>
