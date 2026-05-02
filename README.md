@@ -1,41 +1,66 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0f2027,50:203a43,100:2c5364&text=GS%20QUANG%20THIEN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-stack%20Web%20Developer&descSize=18&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:141e30,50:243b55,100:0f2027&text=GS%20QUANG%20THIEN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Web%20Developer%20|%20Backend%20Engineer&descSize=16&descAlignY=62" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrQuangThien&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MrQuangThien&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/MrQuangThien?style=for-the-badge&color=blue" />
 </p>
+
+---
+
+<!-- ================= INTRO ================= -->
+<h3 align="center">🚀 Building Scalable Web Systems | Passionate Developer</h3>
 
 ---
 
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzIzOTBnZW93OHNyb3c5OWpwd204NDBxcnd6cTBjdmhuNGc4cmxpMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.webp" width="85%" style="border-radius:12px"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzIzOTBnZW93OHNyb3c5OWpwd204NDBxcnd6cTBjdmhuNGc4cmxpMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.webp" width="80%" style="border-radius:15px"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-MrQuangThien là một **Full-stack Web Developer** tập trung vào backend, thiết kế hệ thống và tối ưu hiệu năng. Có kinh nghiệm xây dựng hệ thống web với **ASP.NET Core, Django, SQL Server**, kết hợp frontend hiện đại. Hiện đang nghiên cứu **Microservices, System Design, Scalable Architecture** và mở rộng sang **AI/Machine Learning**, đồng thời tham gia các dự án **Open Source**.
+Xin chào 👋, mình là **MrQuangThien** – một **Full-stack Web Developer** với định hướng chuyên sâu về **Backend Development, System Design và Performance Optimization**.  
+
+- 🔥 Xây dựng hệ thống web bằng **ASP.NET Core, Django, SQL Server**
+- ⚡ Tối ưu hiệu năng & kiến trúc hệ thống
+- 🧠 Nghiên cứu **Microservices & Scalable Architecture**
+- 🤖 Quan tâm đến **AI / Machine Learning**
+- 🌍 Đóng góp **Open Source**
 
 ---
 
-## 🚀 Tech Stack
+## 🎯 Current Goals
 
+- 🚀 Phát triển hệ thống web quy mô lớn  
+- 📚 Nâng cao kỹ năng **System Design**  
+- ⚡ Tối ưu hiệu năng backend  
+- 🌐 Tham gia nhiều dự án thực tế hơn  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs&perline=6" />
 </p>
 
+### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,bootstrap&perline=6" />
 </p>
 
+### ⚙️ Backend & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask,spring,mysql,postgres,mongodb&perline=6" />
 </p>
 
+### ☁️ DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,vscode,figma,postman&perline=5" />
 </p>
@@ -59,6 +84,15 @@ MrQuangThien là một **Full-stack Web Developer** tập trung vào backend, th
 
 ---
 
+## 🏆 Highlights
+
+- 💡 Xây dựng nhiều dự án Web Full-stack  
+- 📦 Làm việc với RESTful API & Database  
+- 🔐 Hiểu về Authentication / Authorization  
+- ⚙️ Triển khai ứng dụng với Docker  
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -72,7 +106,7 @@ MrQuangThien là một **Full-stack Web Developer** tập trung vào backend, th
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img width="85%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -89,5 +123,5 @@ MrQuangThien là một **Full-stack Web Developer** tập trung vào backend, th
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:141e30&height=100&section=footer"/>
 </p>
